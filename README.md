@@ -23,7 +23,7 @@ So, this is my first attempt of creating a storage technique or using an old sto
 To begin I am calling this new data storage system “Smart Data Storage Style”, SDSS for short.
 It may contain old techniques of data storage for convenience, and new techniques whenever found more efficient. 
 
-8 Rules of SDSS: (Numbers may vary based on latest update)
+## 8 Rules of SDSS: (Numbers may vary based on latest update)
 1.	Cut down the amount of data into very small chunk, from which later civilizations can derive conclusions on their own.
 2.	Make the data memorable by visual stimulation, or sound. Like an impressive Icon, or a beautiful melody (example - a song about said subject).
 3.	The data needs to be reduced at a scale that can be distributed to everyone.
